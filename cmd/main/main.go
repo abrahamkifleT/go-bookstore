@@ -1,6 +1,6 @@
 /*
 to run before running main.go:
-go mod init github.com/bh1995/go-bookstore
+go mod init github.com/abrahamkifleT/go-bookstore
 go get "github.com/jinzhu/gorm"
 go get "github.com/jinzhu/gorm/dialects/mysql"
 go get "github.com/gorilla/mux"
